@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bunnylite
+- 👋 Hi, I’m purna
 - 👀 I’m interested in wweb development
 - 🌱 I’m currently learning html
 
